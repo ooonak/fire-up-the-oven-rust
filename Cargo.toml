@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Oonak Kanoo <a@b.c>"]
 license = "MIT"
 description = "Another Hello World"
-repository = "https://github.com/ooonak/fire-up-the-oven-cmake.git"
+repositorc = "https://github.com/ooonak/fire-up-the-oven-rust.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
